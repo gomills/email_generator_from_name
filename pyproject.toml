@@ -1,0 +1,9 @@
+[project]
+name = "email-generator_from_name"
+version = "0.1.0"
+description = "Random email generator from name by Gomills"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=2.3.2",
+]
